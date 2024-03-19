@@ -23,7 +23,7 @@ A continuación una lista de los recursos que fueron usados en el transcurso de 
    - [Git](https://git-scm.com/) para el control de versiones.
    - [Sweetalert2](https://sweetalert2.github.io/) para el control de alertas.
    - [React Icons](https://react-icons.github.io/react-icons/) para el agregar iconos.
-
+   - [TailwindCss] (https://tailwindcss.com/) para los estilos
 ## Integrantes
 
 <ul>
