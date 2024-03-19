@@ -7,8 +7,8 @@
 - **Nombre del Curso**: Desarrollo Web con React
 - **Institución**: Universidad Tecnológica Nacional (UTN)
 - **Instructor**: Verónica Guiñan (Ingeniera Mecatrónica)
-- **Fecha de Inicio**: 30/10
-- **Fecha de Finalización**: 27/11
+- **Fecha de Inicio**: 30/10/23
+- **Fecha de Finalización**: 27/11/23
 
 ## Recursos del Curso
 
